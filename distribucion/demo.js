@@ -11,7 +11,8 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 //@ts-check
 (() => __awaiter(void 0, void 0, void 0, function* () {
     const myCart = [];
-    const products = [];
+    // se asigna el tipo de Array o interfaz a utilizar
+    let products = [];
     const limit = 2;
     function getProducts() {
         return __awaiter(this, void 0, void 0, function* () {
