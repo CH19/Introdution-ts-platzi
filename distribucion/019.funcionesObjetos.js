@@ -23,3 +23,4 @@
     };
     console.log(addProduct(datos));
 })();
+let price = 100;
