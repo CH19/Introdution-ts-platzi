@@ -25,9 +25,9 @@
 # Icon must end with two \r
 Icon
 
-# Rar and zip 
+# Rar and zip
 *.rar
-*.zip 
+*.zip
 # Thumbnails
 ._*
 
@@ -235,3 +235,5 @@ build-*/
 docgen_tmp/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,zig,linux,macos,node,nodechakratimetraveldebug
+package.json
+package-lock.json
