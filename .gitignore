@@ -237,3 +237,4 @@ docgen_tmp/
 # End of https://www.toptal.com/developers/gitignore/api/windows,zig,linux,macos,node,nodechakratimetraveldebug
 package.json
 package-lock.json
+.editorconfig
